@@ -1,0 +1,17 @@
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\bin\Debug\ControleDeValor.exe.config
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\bin\Debug\ControleDeValor.exe
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\bin\Debug\ControleDeValor.pdb
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.csprojAssemblyReference.cache
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.Form1.resources
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.Properties.Resources.resources
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.csproj.GenerateResource.cache
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.exe
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.pdb
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.Login.resources
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.Cadastro.resources
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.Atualizar.resources
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.Historico.resources
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.DiaAlterar.resources
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.Gasto.resources
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.VisualizarGastos.resources
+C:\Users\laure\Desktop\Novo Projeto\ControleDeValor\ControleDeValor\obj\Debug\ControleDeValor.Economizar.resources
